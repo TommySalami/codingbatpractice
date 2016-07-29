@@ -42,6 +42,7 @@ public class StringTwo {
         }
         if(counter[0]==counter[1]) return true;
         else return false;
+        //just a test
     }
 
 
